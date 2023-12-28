@@ -38,7 +38,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/posts/2a54352.html</loc>
+    <loc>https://arvin-xiao.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2023-12-28</lastmod>
     
@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/posts/4a17b156.html</loc>
+    <loc>https://arvin-xiao.github.io/posts/2a54352.html</loc>
     
     <lastmod>2023-12-28</lastmod>
     
@@ -74,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/personal/bb/index.html</loc>
+    <loc>https://arvin-xiao.github.io/personal/love/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/personal/love/index.html</loc>
+    <loc>https://arvin-xiao.github.io/personal/bb/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
     
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/social/fcircle/index.html</loc>
+    <loc>https://arvin-xiao.github.io/site/time/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
     
@@ -110,7 +110,7 @@
   </url>
   
   <url>
-    <loc>https://arvin-xiao.github.io/site/time/index.html</loc>
+    <loc>https://arvin-xiao.github.io/social/fcircle/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
     
@@ -137,6 +137,15 @@
   </url>
   
   <url>
+    <loc>https://arvin-xiao.github.io/life/movies/index.html</loc>
+    
+    <lastmod>2023-12-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://arvin-xiao.github.io/life/games/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
@@ -147,15 +156,6 @@
   
   <url>
     <loc>https://arvin-xiao.github.io/life/music/index.html</loc>
-    
-    <lastmod>2023-12-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://arvin-xiao.github.io/life/movies/index.html</loc>
     
     <lastmod>2023-12-27</lastmod>
     
