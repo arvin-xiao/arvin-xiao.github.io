@@ -6,7 +6,7 @@
   <link href="https://arvin-xiao.github.io/atom.xml" rel="self"/>
   
   <link href="https://arvin-xiao.github.io/"/>
-  <updated>2023-12-29T03:16:23.014Z</updated>
+  <updated>2023-12-29T05:28:07.107Z</updated>
   <id>https://arvin-xiao.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://arvin-xiao.github.io/posts/2a54352.html"/>
     <id>https://arvin-xiao.github.io/posts/2a54352.html</id>
     <published>2023-12-29T03:16:23.014Z</published>
-    <updated>2023-12-29T03:16:23.014Z</updated>
+    <updated>2023-12-29T05:28:07.107Z</updated>
     
     <content type="html"><![CDATA[<h3 id="欢迎来到我的博客天地">欢迎来到我的博客天地 !!!</h3><h3 id="BLOG-X"><a href="https://arvin-xiao.github.io/">BLOG-X</a></h3>]]></content>
     
@@ -35,6 +35,14 @@
     
     
     
+    <category term="个人博客" scheme="https://arvin-xiao.github.io/categories/%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/"/>
+    
+    
+    <category term="Blog" scheme="https://arvin-xiao.github.io/tags/Blog/"/>
+    
+    <category term="博客" scheme="https://arvin-xiao.github.io/tags/%E5%8D%9A%E5%AE%A2/"/>
+    
+    <category term="GitHub" scheme="https://arvin-xiao.github.io/tags/GitHub/"/>
     
   </entry>
   
